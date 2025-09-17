@@ -22,7 +22,7 @@ export default function HomePage() {
       image: "/dragon-fruit-new.jpeg",
       glowColor: "energy-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Perm Lightning",
@@ -31,7 +31,7 @@ export default function HomePage() {
       image: "/rumble-fruit.jpeg",
       glowColor: "gold-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Perm Kitsune",
@@ -40,7 +40,7 @@ export default function HomePage() {
       image: "/kitsune-fruit.jpeg",
       glowColor: "energy-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Perm Gravity",
@@ -49,7 +49,7 @@ export default function HomePage() {
       image: "/gravity-fruit.jpeg",
       glowColor: "gold-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Perm Yeti",
@@ -58,7 +58,7 @@ export default function HomePage() {
       image: "/yeti-fruit.jpeg",
       glowColor: "energy-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Perm Portal",
@@ -67,7 +67,7 @@ export default function HomePage() {
       image: "/portal-fruit.png",
       glowColor: "gold-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Perm Dough",
@@ -76,7 +76,7 @@ export default function HomePage() {
       image: "/dough-fruit-new.jpeg",
       glowColor: "energy-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Perm T-Rex",
@@ -85,7 +85,7 @@ export default function HomePage() {
       image: "/trex-fruit.jpeg",
       glowColor: "gold-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
   ]
 
@@ -97,7 +97,7 @@ export default function HomePage() {
       image: "/dark-blade-gamepass.webp",
       glowColor: "energy-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Fruit Notifier",
@@ -106,7 +106,7 @@ export default function HomePage() {
       image: "/fruit-notifier-gamepass.webp",
       glowColor: "gold-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "2x Exp",
@@ -115,7 +115,7 @@ export default function HomePage() {
       image: "/2x-exp-gamepass.webp",
       glowColor: "energy-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "2x Money",
@@ -124,7 +124,7 @@ export default function HomePage() {
       image: "/2x-money-gamepass.webp",
       glowColor: "gold-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
     {
       name: "Fast Boat",
@@ -133,7 +133,7 @@ export default function HomePage() {
       image: "/fast-boat-gamepass.webp",
       glowColor: "energy-glow",
       claimUrl:
-        "https://www.robiox.com.am/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=82817157375047607968140616224529",
+        "https://roblox.cd/games/2753915549/RIP-Event-Blox-Fruits?privateServerLinkCode=46566751558514295234581042645628",
     },
   ]
 
